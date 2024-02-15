@@ -31,7 +31,7 @@ This project aims to develop a chatbot application that utilizes **Cognitive Beh
 **Project Status:**
 
 * Development stage: In progress
-* Planned features: [List upcoming features based on your roadmap]
+* Planned features: Coming soon...
 
 **Running the App:**
 
@@ -39,15 +39,15 @@ This project aims to develop a chatbot application that utilizes **Cognitive Beh
 
 **Contributing:**
 
-We welcome contributions to this project! Please follow the guidelines in the `CONTRIBUTING.md` file.
+We welcome contributions to this project! Please follow the guidelines in the `CONTRIBUTING.md`(CONTRIBUTING.md) file.
 
 **License:**
 
-This project is licensed under the [License Name] License. See the `LICENSE` file for details.
+This project is licensed under the GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 License. See the `LICENSE`(LICENSE.txt) file for details.
 
 **References:**
 
-* van der Schyff EL, Ridout B, Amon KL, Forsyth R, Campbell AJ. Providing Self-Led Mental Health Support Through an Artificial Intelligence–Powered Chat Bot (Leora) to Meet the Demand of Mental Health Care. J Med Internet Res 2023;25:e46448. doi: 10.2196/46448. PMID: 37335608. PMCID: 10337342
+* van der Schyff EL, Ridout B, Amon KL, Forsyth R, Campbell AJ. Providing Self-Led Mental Health Support Through an Artificial x`Intelligence–Powered Chat Bot (Leora) to Meet the Demand of Mental Health Care. J Med Internet Res 2023;25:e46448. doi: 10.2196/46448. PMID: 37335608. PMCID: 10337342
 * Fulmer R, Joerin A, Gentile B, Lakerink L, Rauws M. Using Psychological Artificial Intelligence (Tess) to Relieve Symptoms of Depression and Anxiety: Randomized Controlled Trial. JMIR Ment Health 2018;5(4):e64. doi: 10.2196/mental.9782. PMID: 30545815. PMCID: 6315222
 * Schick A, Feine J, Morana S, Maedche A, Reininghaus U. Validity of Chatbot Use for Mental Health Assessment: Experimental Study. JMIR Mhealth Uhealth 2022;10(10):e28082. URL: [https://mhealth.jmir.org/2022/10/e28082](https://mhealth.jmir.org/2022/10/e28082). DOI: 10.2196/28082
 
