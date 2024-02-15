@@ -39,11 +39,11 @@ This project aims to develop a chatbot application that utilizes **Cognitive Beh
 
 **Contributing:**
 
-We welcome contributions to this project! Please follow the guidelines in the `CONTRIBUTING.md`(CONTRIBUTING.md) file.
+We welcome contributions to this project! Please follow the guidelines in the `CONTRIBUTING.md` file.
 
 **License:**
 
-This project is licensed under the GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 License. See the `LICENSE`(LICENSE.txt) file for details.
+This project is licensed under the GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 License. See the `LICENSE` file for details.
 
 **References:**
 
