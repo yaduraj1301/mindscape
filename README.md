@@ -10,6 +10,9 @@ This repository contains the code and documentation for a **Mental Health Sugges
 * Yadurajakrishnan M (PKD21IT067)
 
 **Guided by:** Dr. Sangeetha Unnikrishnan
+        Head of Department,
+        Information Technology,
+        Govt. Engineering College Sreekrishnapuram.
 
 **Description:**
 
